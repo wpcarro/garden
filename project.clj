@@ -1,6 +1,6 @@
-(defproject garden "1.3.4-SNAPSHOT"
+(defproject com.urbint/garden "1.3.4"
   :description "Generate CSS from Clojure/Cljs data structures."
-  :url "https://github.com/noprompt/garden"
+  :url "https://github.com/wpcarro/garden"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :min-lein-version "2.5.0"
